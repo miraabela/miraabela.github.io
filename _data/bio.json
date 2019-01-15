@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Mrabela Medallon",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/bela.jpg",
+    "email": "mirabela@hawaii.edu",
+    "phone": "Phone Number Redacted",
+    "website": "https://miraabela.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,37 +17,42 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "miraabela",
+        "url": "https://github.com/miraabela"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "mirabela-m-38702b164",
+        "url": "https://www.linkedin.com/in/mirabela-m-38702b164/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "portfolio",
+        "username": "",
+        "url": "https://mirabela.carbonmade.com/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "miraabela",
+        "url": "https://www.instagram.com/miraabela/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "diversity in STEM",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "women in STEM ",
+        "underrepresented minorities in STEM",
+        "native hawaiians in STEM"
       ]
     },
     {
-      "name": "data mining",
+      "name": "sustainability",
       "keywords": [
+        "green",
+        "climate change",
+        "environment",
+        "renewable energy"
       ]
     },
     {
@@ -84,9 +89,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [

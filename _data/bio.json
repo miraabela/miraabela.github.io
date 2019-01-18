@@ -99,11 +99,6 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "ICS 111",
-        "ICS 211",
-        "ICS 141",
-        "ICS 241",
-        "ICS 212",
       ]
     }
   ],
@@ -111,10 +106,10 @@
     {
       "company": "STEM Center at Kapiolani CC",
       "position": "Web & Graphic Designer",
-      "website": "under construction",
+      "website": "",
       "startDate": "2018-08-15",
       "endDate": "Present",
-      "summary": "Leading the New Website Redesign",
+      "summary": "Currently Redesigning a New Website",
       "highlights": [
         "Designed a new easier system for Tutors/Students to view their work/tutoring schedule",
         "Design appealing recruitment & marketing materials for KCC STEM",
@@ -125,7 +120,7 @@
     {
       "company": "STEM Center at Kapiolani CC",
       "position": "Computer Science Tutor",
-      "website": "under construction",
+      "website": "",
       "startDate": "2018-01-15",
       "endDate": "2016-05-15",
       "summary": "Supportive Tutor for ICS Students",
@@ -217,38 +212,39 @@
       "position": "Volunteer",
       "startDate": "2018-11-02",
       "endDate": "2017-11-03",
-      "summary": "22018 ECUH VEX Tournament",
+      "summary": "2018 ECUH VEX Tournament",
       "highlights": [
         "Helped build stages and props",
         "Volunteered as Pit Manager"
       ]
     },
+    
     {
-      "organization": "",
+      "organization": "FilAm Courier",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Assistant to Project Manager",
+      "startDate": "2018-05-15",
+      "endDate": "2018-08-15",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Currently helping to develop a book that showcases local Filipino-American community leaders and how we can inspire future generations of Filipinos in America."
       ]
-    }
+    },
+    
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Natural Science Foundation Bridges to Baccalaureate: Strategic Alliance for Minority Participation Award",
+      "date": "Fall 2018 Semester",
+      "awarder": "Kapiolani Community College",
+      "summary": "The NSF B2B STAMP Award program supports and advances STEM Education and transfer of Native Hawaiian and Underrepresented Minority students into a baccalaureate STEM degree."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Best Entertainment/Gaming App: 1st Place",
+      "date": "March 21018",
+      "awarder": "AT&T Hackathon 2018",
+      "summary": "Our team, Team Turretz, won first place. I gained experience in Unity and C# to program a VR game for the Microsoft HoloLens.",
+      "website": "https://bit.ly/2n01c8n"
     }
   ],
   "references": [

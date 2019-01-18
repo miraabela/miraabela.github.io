@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/kue1.png
 title: Kanaloa Underwater Engineering
-permalink: projects/vacay
+permalink: projects/kue
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-15
 labels:

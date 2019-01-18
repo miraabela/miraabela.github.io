@@ -178,15 +178,49 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "St Elizabeth Church Aiea",
+      "website": "",
+      "position": "Piano Player",
+      "startDate": "2018-01-15",
+      "endDate": "2018-05-15",
+      "summary": "Volunteer piano player for Catholic church",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Played piano for masses and occasional prayer nights"
+      ]
+    },
+    {
+      "organization": "Malaya Elementary School in Rizal, Philippines",
+      "website": "",
+      "position": "Food & Supply Distributor",
+      "startDate": "2017-08-01",
+      "endDate": "2017-08-01",
+      "summary": "Volunteer in Day Mission in the Philippines",
+      "highlights": [
+        "Distributed lunch meals and school supplies to children in Malaya Elementary School in Rizal, Philippines."
+      ]
+    },
+    {
+      "organization": "AFCEA Hawaii",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2018-11-12",
+      "endDate": "2017-11-13",
+      "summary": "2018 AFCEA TechNet Asia-Pacific Conference",
+      "highlights": [
+        "Attended Women in AFCEA Panel",
+        "Volunteered at Registration"
+      ]
+    },
+    {
+      "organization": "Engineer's Council at the University of Hawaii",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2018-11-02",
+      "endDate": "2017-11-03",
+      "summary": "22018 ECUH VEX Tournament",
+      "highlights": [
+        "Helped build stages and props",
+        "Volunteered as Pit Manager"
       ]
     },
     {

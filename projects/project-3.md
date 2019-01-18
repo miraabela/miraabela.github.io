@@ -1,22 +1,21 @@
 ---
 layout: project
 type: project
-image: images/kumu1.jpg
-title: HACC 2018: Kumu
-permalink: projects/kumu
+image: images/dis.png
+title: Diversity in STEM
+permalink: projects/dis
 # All dates must be YYYY-MM-DD format!
-date: 2018-10-20
+date: 2018-12-03
 labels:
-  - Hackathon
-  - Andriod
-  - Java
-summary: Our team proposed a solution to the DLNR's problem of collecting and reporting native Hawaiian plant data.
+  - Diversity
+  - STEM
+  - Women
+  - Native Hawaiians
+summary: Increasing diversity in STEM by modifying content in an educational institution website to appeal to underrepresented groups.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/kumu1.jpg">
-  <img class="ui image" src="../images/kumu2.jpg">
-  <img class="ui image" src="../images/kumu3.jpg">
+  <img class="ui image" src="../images/dis.png">
 </div>
 
 Kumu is a two-part system for efficient, user-friendly data reporting and visualization for native Hawaiian plants.

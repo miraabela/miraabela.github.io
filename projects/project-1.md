@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/kumu1.jpg
-title: HACC 2018: Kumu
+title: HACC 2018, Kumu
 permalink: projects/kumu
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-20

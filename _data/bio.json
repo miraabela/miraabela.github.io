@@ -39,11 +39,8 @@
   },
   "interests": [
     {
-      "name": "diversity in STEM",
+      "name": "web development",
       "keywords": [
-        "women in STEM ",
-        "underrepresented minorities in STEM",
-        "native hawaiians in STEM"
       ]
     },
     {
@@ -56,12 +53,13 @@
       ]
     },
     {
-      "name": "graphic design",
+      "name": "graphic design & photography",
       "keywords": [
         "UI / UX design",
         "adobe",
         "photoshop",
         "illustrator",
+        "lightroom",
       ]
     }
   ],

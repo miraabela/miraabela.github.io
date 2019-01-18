@@ -2,13 +2,13 @@
   "basics": {
     "name": "Mrabela Medallon",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/bela.jpg",
+    "picture": "/images/bela.jpg",
     "email": "mirabela@hawaii.edu",
     "phone": "Phone Number Redacted",
     "website": "https://miraabela.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
     "location": {
-      "address": "",
+      "address": "Address Redacted",
       "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -56,8 +56,12 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "graphic design",
       "keywords": [
+        "UI / UX design",
+        "adobe",
+        "photoshop",
+        "illustrator",
       ]
     }
   ],
@@ -70,8 +74,9 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML & CSS",
+        "C#",
+        "Arduino"
       ]
     },
     {
@@ -79,10 +84,9 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Unity",
+        "Wordpress",
+        "Adobe Creative Cloud"
       ]
     }
   ],
@@ -95,32 +99,80 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 111",
+        "ICS 211",
+        "ICS 141",
+        "ICS 241",
+        "ICS 212",
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "STEM Center at Kapiolani CC",
+      "position": "Web & Graphic Designer",
+      "website": "under construction",
+      "startDate": "2018-08-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Leading the New Website Redesign",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Designed a new easier system for Tutors/Students to view their work/tutoring schedule",
+        "Design appealing recruitment & marketing materials for KCC STEM",
+        "Updating the (outdated) KCC STEM Wordpress website & social media pages",
+        "Initiative to improve diversity in STEM by changing to content to be more appealing to underrepresented minorities",
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "STEM Center at Kapiolani CC",
+      "position": "Computer Science Tutor",
+      "website": "under construction",
+      "startDate": "2018-01-15",
+      "endDate": "2016-05-15",
+      "summary": "Supportive Tutor for ICS Students",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Tutor / Peer mentor for classes ICS 111, ICS 141, ICS 211 ",
+        "Adjust to student’s pace of learning and needs",
+        "Actively problem solve and lead students to fix their programs",
+        "Assist students with Java Programming & Discrete Math assignments"
+      ]
+    },
+    {
+      "company": "Ka Manao Magazine at Leeward CC",
+      "position": "Graphic Designer & Photographer",
+      "website": "https://issuu.com/kamanaoleeward/docs/winter_2017_master_document_",
+      "startDate": "2017-08-15",
+      "endDate": "2017-12-15",
+      "summary": "Create Clean and Appealing Page Layouts",
+      "highlights": [
+        "Created new design for Staff Photos for the Winter 17 Issue"
+      ]
+    },
+    {
+      "company": "Amaxima Realty and Property Management Group, LLC",
+      "position": "Marketing & Technical Assistant & Photographer",
+      "website": "",
+      "startDate": "2016-06-15",
+      "endDate": "2017-07-15",
+      "summary": "Helped Market and Sell Homes in Las Vegas",
+      "highlights": [
+        "Capture professional, aesthetically pleasing interior and exterior photos of the properties using a DSLR, tripod, and wide angle lens",
+        "Designing print-ready marketing materials such as business cards, flyers, and presentations",
+        "Searching for properties on the MLS, uploading property photos to the MLS listing",
+        "Providing basic training on computer software use"
+      ]
+    },
+    {
+      "company": "Self Employed",
+      "position": "Freelance Graphic Designer",
+      "website": "mirabela.carbonmade.com",
+      "startDate": "2016-06-15",
+      "endDate": "2017-07-15",
+      "summary": "Designed the Logos of 6 startups",
+      "highlights": [
+        "Graphic Design Contests: Won those 6, was a runner up in 10.",
+        "Communicating with clients to fully understand the brand goals, target audience, and artistic needs",
+        "Using various forms of art media and computer software (Adobe) to create memorable and visually impactful logos",
+        "Preparing design files for print and web in vector and raster format"
       ]
     }
   ],
@@ -166,9 +218,9 @@
     }
   ],
   "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
+    {1
+      "name": "Keomailani Eaton",
+      "reference": "STEM Center Coordinator at Kapiolani Community College"
     }
   ]
 }

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/dis.png
+image: images/dis1.png
 title: Diversity in STEM
 permalink: projects/dis
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ summary: Increasing diversity in STEM by modifying content in an educational ins
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/dis.png">
+  <img class="ui image" src="../images/dis1.png">
 </div>
 
 Kumu is a two-part system for efficient, user-friendly data reporting and visualization for native Hawaiian plants.

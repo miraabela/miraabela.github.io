@@ -10,7 +10,10 @@ labels:
 
 <img class="ui left floated image" src="../images/jsmeme.jpg">
 
-##  Javascript
+##  Javascript: Now that's Wild
+
+Dangerous, dynamic, adaptable, non-conforming, and vague are adjectives you'd think would be used to describe a "bad boy" that your parents warned you about. 
+
 
 Equality Operators
 ```

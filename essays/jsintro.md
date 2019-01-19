@@ -8,7 +8,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui left floated image" src="../images/jsmeme.jpg">
+<img class="ui left floated image" src="../images/javascriptmeme.png">
 
 ##  Dear Java: thank u, next. 
 

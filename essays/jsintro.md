@@ -10,9 +10,9 @@ labels:
 
 <img class="ui left floated image" src="../images/jsmeme.jpg">
 
-##  Javascript: Now that's Wild
+##  Dear Java: Thank you, Next. 
 
-Dangerous, dynamic, adaptable, non-conforming, and vague are adjectives you'd think would be used to describe a "bad boy" that your parents warned you about to never date. In this case, that "bad boy" is Javascript. Coming from a Java and C/C++ perspective, little did I know that Javascript is what I have been yearning for in the long, arduous nights that I wasted with Java defining types and structuring classes with predefined feilds.  
+Dangerous, dynamic, adaptable, non-conforming, and vague are adjectives you'd think would be used to describe a "bad boy" that your parents warned you about to never date. In this case, that "bad boy" is Javascript. Coming from a Java and C/C++ perspective, little did I know that Javascript is what I have been yearning for in the long, arduous nights that I wasted with Java defining types and structuring classes with predefined feilds.  As Ariana
 
 
 Equality Operators

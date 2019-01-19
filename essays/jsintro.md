@@ -24,6 +24,10 @@ and one taught me pain
 
 I couldn't agree more with Ms. Grande. Java has taught me to love, patience, and pain, but Javascript has allured me with its potential and possibilities. 
 
+#### Hash maps, Who??
+
+Another quirk about Javascript I love already is how you can just use simple objects to store keys paired with values. In Java, to store a key/value data structure, you would use the HashMap class.
+
 
 
 ## Athletic Software Engineering

@@ -24,13 +24,12 @@ and one taught me pain
 
 I couldn't agree more with Ms. Grande. Java has taught me to love, patience, and pain, but Javascript has allured me with its potential and possibilities. 
 
-#### Hash maps, Who??
+#### HashMap, Who??
 
-Another quirk about Javascript I love already is how you can just use simple objects to store keys paired with values. In Java, to store a key/value data structure, you would use the HashMap class.
-
-
-
-## Looks like I won't need to go to the Gym 
+Another quirk about Javascript I love already is how you can simply use objects to store keys paired with values. In Java, to store a key/value database, you would use the HashMap class.
 
 
 
+## Looks like I won't be hitting up the Gym
+
+After all these years I can finally make my parents proud and tell them I'm athletic. I quite enjoy athletic software engineering, since it mimics real life situations where we would have a project deadline that requires you to work under pressure and not waste time. The workouts require you to be well acquainted with the language beforehand in order to quickly solve a challenge. 

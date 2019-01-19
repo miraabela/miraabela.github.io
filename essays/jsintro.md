@@ -12,7 +12,18 @@ labels:
 
 ##  Javascript
 
+Equality Operators
+```
+// math
+x = y
 
+// java
+x == y
+
+// javascript
+x === y
+
+```
 
 ## Athletic Software Engineering
 

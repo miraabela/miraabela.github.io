@@ -26,7 +26,7 @@ I couldn't agree more with Ms. Grande. Java has taught me to love, patience, and
 
 #### HashMap, Who??
 
-Another quirk about Javascript I love already is how you can simply use objects to store keys paired with values. In Java, to store a key/value database, you would use the HashMap class.
+Another quirk about Javascript I enjoy is how you can simply use objects to store keys paired with values. In Java, to store a key/value database, you would use the HashMap class.
 
 
 

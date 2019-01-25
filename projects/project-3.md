@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gd0.png
+image: images/dis1.png
 title: Diversity in STEM
 permalink: projects/diversitystem
 # All dates must be YYYY-MM-DD format!

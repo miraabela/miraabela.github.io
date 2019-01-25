@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/gd0.png
-title: Freelance Graphic Designer
+title: Freelance Graphic Design
 permalink: projects/graphicdesign
 # All dates must be YYYY-MM-DD format!
 date: 2015-05-15
@@ -10,7 +10,7 @@ labels:
   - Graphic Design
   - Client Work
   - Adobe Illustrator
-summary: On the side, I make logos, art, graphics, and do photography.
+summary: Various logos for clients and friends.
 ---
 # Graphic Design
 <img class="ui left floated image" src="../images/gd1.png">

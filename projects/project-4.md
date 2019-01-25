@@ -10,6 +10,8 @@ labels:
   - Graphic Design
   - Client Work
   - Adobe Creative Cloud
+  - Photography
+  - Art
 summary: On the side, I make logos, art, graphics, and do photography.
 ---
 

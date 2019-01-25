@@ -10,7 +10,7 @@ labels:
   - Photography
   - Art
   - Adobe Photoshop
-summary: On the side, I make logos, art, graphics, and do photography.
+summary: On the side, I do photography and make art.
 ---
 
 # Art

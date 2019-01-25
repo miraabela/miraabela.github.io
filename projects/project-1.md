@@ -26,6 +26,7 @@ Kumu is a two-part system for efficient, user-friendly data reporting and visual
 The Kumu system incorporates a pair of two components: Kumu App for data collection, and Kumu Web for data visualization.
 I worked on the Branding and Logo, Video, Website & CSS, and some of the Android app.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/00_dTfcc3iY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A full description is at [Devpost](https://devpost.com/software/kumu).
 

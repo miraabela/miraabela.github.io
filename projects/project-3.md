@@ -11,6 +11,6 @@ labels:
   - STEM
   - Women
   - Underrepresented Minorities
-summary: 
+summary: Working on redesigning the KCCSTEM website to be more appealing to underrepresented minorities & women with the initiative to increase diversity in their STEM program.
 ---
 

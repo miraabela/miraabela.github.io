@@ -27,18 +27,3 @@ summary: On the side, I make logos, art, graphics, and do photography.
 <img class="ui left floated image" src="../images/gd11.png">
 <img class="ui left floated image" src="../images/gd12.png">
 <img class="ui left floated image" src="../images/gd13.png">
-
-# Art
-<img class="ui left floated image" src="../images/gd14.png">
-<img class="ui left floated image" src="../images/gd15.png">
-
-# Photography
-<img class="ui left floated image" src="../images/gd16.png">
-<img class="ui left floated image" src="../images/gd17.png">
-<img class="ui left floated image" src="../images/gd18.png">
-<img class="ui left floated image" src="../images/gd19.png">
-<img class="ui left floated image" src="../images/gd20.png">
-<img class="ui left floated image" src="../images/gd21.png">
-<img class="ui left floated image" src="../images/gd22.png">
-<img class="ui left floated image" src="../images/gd23.png">
-<img class="ui left floated image" src="../images/gd24.png">

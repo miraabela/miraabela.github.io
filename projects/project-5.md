@@ -5,7 +5,7 @@ image: images/gd25.png
 title: Art & Photography
 permalink: projects/artphotography
 # All dates must be YYYY-MM-DD format!
-date: 2015-05-15
+date: 2015-04-15
 labels:
   - Photography
   - Art

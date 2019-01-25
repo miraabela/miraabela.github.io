@@ -9,9 +9,7 @@ date: 2015-05-15
 labels:
   - Graphic Design
   - Client Work
-  - Adobe Creative Cloud
-  - Photography
-  - Art
+  - Adobe Illustrator
 summary: On the side, I make logos, art, graphics, and do photography.
 ---
 # Graphic Design

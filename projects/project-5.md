@@ -27,4 +27,4 @@ summary: On the side, I do photography and make art.
 <img class="ui left floated image" src="../images/gd22.png">
 <img class="ui left floated image" src="../images/gd23.png">
 <img class="ui left floated image" src="../images/gd24.png">
-<img class="ui left floated image" src="../images/gd24.png">
+<img class="ui left floated image" src="../images/gd25.png">

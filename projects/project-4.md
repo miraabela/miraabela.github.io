@@ -31,12 +31,10 @@ summary: On the side, I make logos, art, graphics, and do photography.
 <img class="ui left floated image" src="../images/gd13.png">
 
 ## Art
-
 <img class="ui left floated image" src="../images/gd14.png">
 <img class="ui left floated image" src="../images/gd15.png">
 
 ## Photography
-
 <img class="ui left floated image" src="../images/gd16.png">
 <img class="ui left floated image" src="../images/gd17.png">
 <img class="ui left floated image" src="../images/gd18.png">

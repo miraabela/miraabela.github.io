@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gd25.png
+image: images/artphotothumb.png
 title: Art & Photography
 permalink: projects/artphotography
 # All dates must be YYYY-MM-DD format!

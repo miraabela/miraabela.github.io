@@ -13,6 +13,11 @@ labels:
 summary: On the side, I do photography and make art.
 ---
 
+# The Creative Perspective
+**Art and photography taught me how to use the tools and resources that I had creatively in order to express my imagination and vision.**  A simple idea in art can be expressed in many ways, similar to how there are multiple solutions and approaches to solving problems.  Creativity is the ability of making use of the tools and techniques that you know to express an idea, whether it be with colored pencils or through lines of code.
+
+Utilizing various forms of art media (watercolor, pencils, etc), my digital camera, and Adobe Photoshop, I developed my creativity skill and ability to **pay close attention to details.**
+
 # Art
 <img class="ui left floated image" src="../images/gd14.png">
 <img class="ui left floated image" src="../images/gd15.png">

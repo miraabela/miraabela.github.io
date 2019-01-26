@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kue1.png
+image: images/kuethumb.png
 title: Kanaloa Underwater Engineering
 permalink: projects/kue
 # All dates must be YYYY-MM-DD format!

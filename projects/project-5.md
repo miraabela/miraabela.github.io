@@ -18,7 +18,7 @@ summary: Creativity for expressing ideas and solving problems
 Utilizing various forms of art media (watercolor, pencils, etc), my digital camera, and Adobe Photoshop, I developed my creativity skill and ability to **pay close attention to details.**
 
 # Art
-<img class="ui centeredimage" src="../images/gd14.png">
+<img class="ui centered image" src="../images/gd14.png">
 <img class="ui centered image" src="../images/gd15.png">
 
 # Photography

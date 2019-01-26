@@ -11,7 +11,8 @@ labels:
   - STEM
   - Women
   - Underrepresented Minorities
-summary: Working on redesigning the KCCSTEM website to be more appealing to underrepresented minorities & women with the initiative to increase diversity in their STEM program.
+summary: How can we make STEM/CS more appealing to Women & Native Hawaiians?
 ---
 
+Working on redesigning the KCCSTEM website to be more appealing to underrepresented minorities & women with the initiative to increase diversity in their STEM program.
 https://docs.google.com/presentation/d/1wrauroYPML3FRxXu9RMC97OBIoRGKsvWbc2U2-l1XSA/edit?usp=sharing

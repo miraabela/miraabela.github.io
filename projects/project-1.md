@@ -39,7 +39,7 @@ The motivation for our Naupaka flower logo goes hand in hand with the inspiratio
 
 
 
-More details on this is available at [Devpost](https://devpost.com/software/kumu).
+More details on this is available at [Devpost](https://devpost.com/software/kumu) and [GitHub](https://github.com/HACC2018/The-Bird-Squad)
 
 
 

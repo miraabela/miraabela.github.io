@@ -23,7 +23,7 @@ During the time that I freelanced, I picked up so many valuable skills from inte
 
 ## Previous Work
 <img class="ui left floated image" src="../images/gd1.png">
-Here is a lgo design for a coffee house and modern workspace offering speaking events and live entertainment.
+Here is a logo design for a coffee house and modern workspace offering speaking events and live entertainment.
 The client wanted a unique and artsy logo that would stand out from most cafe logos, so no generic coffee bean logos were going this route. I opted for a play on the words “social light” by creating a male and female as the bulb of a lightbulb.
 
 <img class="ui left floated image" src="../images/gd2.png">

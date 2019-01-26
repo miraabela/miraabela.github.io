@@ -19,12 +19,12 @@ Utilizing various forms of art media (watercolor, pencils, etc), my digital came
 
 With any craft, in order to truly produce effective work, you must have **awareness of the decisions you make** and put care into every detail of it. Just like coding, where the tiniest combination of characters you type into lines of code can determine whether or not a program will work, in art, the different combination of colors and linestrokes can produce a different feeling even if it just varies by a slight twitch of your hand.
 
-
-# Art
+# Previous Work 
+## Art
 <img class="ui centered image" src="../images/gd14.png">
 <img class="ui centered image" src="../images/gd15.png">
 
-# Photography
+## Photography
 <img class="ui centered image" src="../images/gd25.png">
 <img class="ui centered image" src="../images/gd16.png">
 <img class="ui centered image" src="../images/gd17.png">

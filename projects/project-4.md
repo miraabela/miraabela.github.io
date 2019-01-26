@@ -23,11 +23,22 @@ During the time that I freelanced, I picked up so many valuable skills from inte
 
 ## Previous Work
 <img class="ui left floated image" src="../images/gd1.png">
+Here is a lgo design for a coffee house and modern workspace offering speaking events and live entertainment.
+The client wanted a unique and artsy logo that would stand out from most cafe logos, so no generic coffee bean logos were going this route. I opted for a play on the words “social light” by creating a male and female as the bulb of a lightbulb.
+
 <img class="ui left floated image" src="../images/gd2.png">
+In ancient Hawaiian, “Kanaloa” is symbolized as a squid and also the name of a volcano. This engineering team based in Honolulu, Hawaii was looking for a logo to represent this. I presented them two concepts. The first concept is a squid created from the general K and E letterforms. The squid legs are circuits to indicate they do electrical engineering, and other hidden engineering and technology symbols such as the Ohm, Wifi, and ground symbols were integrated into the logo. The second concept was a volcano with the shape of an E in the lava, which is designed to look like circuits. The K was hidden in the sun rays behind the volcano.
+
+
 <img class="ui left floated image" src="../images/gd3.png">
 <img class="ui left floated image" src="../images/gd3a.png">
+TeaLeaf is a boba tea, coffee, sandwich, and snack shop located in Gilroy, California.
+https://www.instagram.com/tealeafgilroy/
+
 <img class="ui left floated image" src="../images/gd4.png">
 <img class="ui left floated image" src="../images/gd5.png">
+I made a custom wordmark logo designed for Ewa Beach music producer Fourth Note. I wanted to give the logo a fresh vibe by fully hand-lettering the “Fourth”. https://soundcloud.com/fourth-note
+
 <img class="ui left floated image" src="../images/gd6.png">
 <img class="ui left floated image" src="../images/gd7.png">
 <img class="ui left floated image" src="../images/gd8.png">

@@ -41,7 +41,7 @@ I made a custom wordmark logo designed for Ewa Beach music producer Fourth Note.
 
 <img class="ui centered image" src="../images/gd6.png">
 <img class="ui centered image" src="../images/gd7.png">
-<img class="ui centeredimage" src="../images/gd8.png">
+<img class="ui centered image" src="../images/gd8.png">
 <img class="ui centered image" src="../images/gd9.png">
 <img class="ui centered image" src="../images/gd10.png">
 <img class="ui centered image" src="../images/gd11.png">

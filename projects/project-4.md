@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gd0.png
+image: images/gdthumb.png
 title: Freelance Graphic Design
 permalink: projects/graphicdesign
 # All dates must be YYYY-MM-DD format!

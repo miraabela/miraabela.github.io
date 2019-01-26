@@ -26,10 +26,11 @@ Another bad question is one that is obvious and can also be found through a quic
 <img class="ui left floated image" src="../images/questions/bq3.png">
 
 ## Newbies (Good Questions)
+A good question is one that is general and can be applied to a wide range of situations so that the most people can benefit from the answer. The question below also asks for an alternative way of solving this problem, which gives the community a little challenge instead of answering the simplest way. Also, the goal is clearly specified and an example string is given.
 <img class="ui left floated image" src="../images/questions/gq1.png">
+
+In response, the community listed multiple ways of solving this problem.
 <img class="ui left floated image" src="../images/questions/gq1a.png">
-<img class="ui left floated image" src="../images/questions/gq2.png">
-<img class="ui left floated image" src="../images/questions/gq2a.png">
 
 
 

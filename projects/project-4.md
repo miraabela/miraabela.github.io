@@ -10,7 +10,7 @@ labels:
   - Graphic Design
   - Client Work
   - Adobe Illustrator
-summary: Various logos for clients and friends.
+summary: Working as a freelancer, you pick up valuable transferrable skills.
 ---
 # Graphic Design
 

@@ -39,14 +39,14 @@ https://www.instagram.com/tealeafgilroy/
 
 I made a custom wordmark logo designed for Ewa Beach music producer Fourth Note. I wanted to give the logo a fresh vibe by fully hand-lettering the “Fourth”. https://soundcloud.com/fourth-note
 
-<img class="ui left floated image" src="../images/gd6.png">
-<img class="ui left floated image" src="../images/gd7.png">
-<img class="ui left floated image" src="../images/gd8.png">
-<img class="ui left floated image" src="../images/gd9.png">
-<img class="ui left floated image" src="../images/gd10.png">
-<img class="ui left floated image" src="../images/gd11.png">
-<img class="ui left floated image" src="../images/gd12.png">
-<img class="ui left floated image" src="../images/gd13.png">
+<img class="ui centered image" src="../images/gd6.png">
+<img class="ui centered image" src="../images/gd7.png">
+<img class="ui centeredimage" src="../images/gd8.png">
+<img class="ui centered image" src="../images/gd9.png">
+<img class="ui centered image" src="../images/gd10.png">
+<img class="ui centered image" src="../images/gd11.png">
+<img class="ui centered image" src="../images/gd12.png">
+<img class="ui centered image" src="../images/gd13.png">
 
 
 # Some of my reviews on [99designs](https://99designs.com/profiles/mirabela/about)

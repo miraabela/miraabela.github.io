@@ -5,7 +5,7 @@ image: images/artphotothumb.png
 title: The Creative Perspective
 permalink: projects/artphotography
 # All dates must be YYYY-MM-DD format!
-date: 2015-04-15
+date: 2019-01-02
 labels:
   - Photography
   - Art

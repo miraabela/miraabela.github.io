@@ -12,7 +12,7 @@ labels:
   - Java
   - HTML & CSS
   - Native Hawaiian Issues
-  - Indiginous Innovation
+  - Indigenous Innovation
 summary: Our team proposed a solution to the DLNR's problem of collecting and reporting native Hawaiian plant data.
 ---
 

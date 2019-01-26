@@ -33,10 +33,6 @@ Kumu Web is a public website that displays real-time plant data collected throug
 
 
 
-## Inspiration for the Logo
-The motivation for our Naupaka flower logo goes hand in hand with the inspiration for our app. A solution to our community’s plant blindness comes in two parts; equal attention must be given to both data collection and data visualization. Streamlined data collection is of little use if it cannot be visualized and used to make insights and decisions. User-friendly data visualization is not meaningful if there is no efficient way to collect the data to be visualized. Therefore, the two parts of our system must work together to achieve the overall goal - increasing public awareness of the need to protect and preserve the native plants of Hawaii. In correlation, the logos for Kumu App data collection and Kumu Web data visualization are the beach Naupaka and mountain Naupaka plants’ lower and upper half-flowers, creating a full flower when joined together.
-
-
 
 
 More details on this is available at [Devpost](https://devpost.com/software/kumu) and [GitHub](https://github.com/HACC2018/The-Bird-Squad)

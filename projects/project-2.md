@@ -14,10 +14,10 @@ summary: Our team worked on an underwater robot for the MATEROV competition.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/kue1.png">
-  <img class="ui image" src="../images/kue2.png">
-  <img class="ui image" src="../images/kue3.png">
-  <img class="ui image" src="../images/kue4.PNG">
+  <img class="ui centered image" src="../images/kue1.png">
+  <img class="ui centered image" src="../images/kue2.png">
+  <img class="ui centered image" src="../images/kue3.png">
+  <img class="ui centered image" src="../images/kue4.PNG">
 
 </div>
 

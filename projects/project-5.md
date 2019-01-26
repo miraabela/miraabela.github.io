@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/artphotothumb.png
 title: The Creative Perspective
-permalink: projects/artphotography
+permalink: projects/creativity
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-02
 labels:
@@ -18,7 +18,6 @@ summary: Creativity, How Art & Code Intersect
 Utilizing various forms of art media (watercolor, pencils, etc), my digital camera, and Adobe Photoshop, I developed my creativity skill and ability to **pay close attention to details.** 
 
 With any craft, in order to truly produce effective work, you must have **awareness of the decisions you make** and put care into every detail of it. Just like coding, where the tiniest combination of characters you type into lines of code can determine whether or not a program will work, in art, the different combination of colors and linestrokes can produce a different feeling even if it just varies by a slight twitch of your hand.
-
 
 
 # Art

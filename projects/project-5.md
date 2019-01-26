@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/artphotothumb.png
-title: Art & Photography
+title: The Creative Perspective
 permalink: projects/artphotography
 # All dates must be YYYY-MM-DD format!
 date: 2015-04-15
@@ -10,7 +10,7 @@ labels:
   - Photography
   - Art
   - Adobe Photoshop
-summary: On the side, I do photography and make art.
+summary: Creativity for expressing ideas and solving problems
 ---
 
 # The Creative Perspective

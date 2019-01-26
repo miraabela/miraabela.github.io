@@ -10,7 +10,7 @@ labels:
   - Photography
   - Art
   - Adobe Photoshop
-summary: How Coding and Art Intersect
+summary: How Coding & Art Intersect
 ---
 
 **Art and photography taught me how to use the tools and resources that I had creatively in order to express my imagination and vision.**  A simple idea in art can be expressed in many ways, similar to how there are multiple solutions and approaches to solving problems.  Creativity is the ability of **making use of the tools and techniques that you know to express an idea**, whether it be with colored pencils or through lines of code.

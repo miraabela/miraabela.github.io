@@ -9,9 +9,10 @@ labels:
 ---
 
 ##  The difference between a noob and a newbie
-The tw
+Although both terms mean someone who is unfamiliar with something, the characterizing difference of a noob and a newbie is their attitude and approach to asking for help.
 
 ## Noobs
+
 <img class="ui left floated image" src="../images/questions/bq1.png">
 <img class="ui left floated image" src="../images/questions/bq1a.png">
 

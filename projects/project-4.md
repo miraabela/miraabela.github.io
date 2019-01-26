@@ -29,5 +29,5 @@ summary: Various logos for clients and friends.
 <img class="ui left floated image" src="../images/gd13.png">
 
 
-## Here are some reviews from [99designs](https://99designs.com/profiles/mirabela/about)
+## Some of my reviews on [99designs](https://99designs.com/profiles/mirabela/about)
 <img class="ui left floated image" src="../images/99designreviews.png">

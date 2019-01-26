@@ -15,7 +15,7 @@ summary: How can we make STEM/CS more appealing to Women & Native Hawaiians?
 ---
 
 # Research for Kapi'olani Community College
-I am currently orking on redesigning the KCCSTEM website to be more appealing to underrepresented minorities & women with the initiative to increase diversity in their STEM program.
+I am currently working on redesigning the KCCSTEM website to be more appealing to underrepresented minorities & women with the initiative to increase diversity in their STEM program.
 
 My [presentation](https://docs.google.com/presentation/d/1wrauroYPML3FRxXu9RMC97OBIoRGKsvWbc2U2-l1XSA/edit?usp=sharing) I did for the KCC Student Undergraduate Research Fair Fall 2018 shows the ideas that I had and vision for their new website.
 

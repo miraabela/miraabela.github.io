@@ -29,12 +29,28 @@ function fib() {
 ```
 In this code snippet, ESLint will give me an error that says "ESLint: 'result' is never reassigned. Use 'const' instead. (prefer-const)."
 
-The aspect I find tedious is just the space formatting. 
+The aspect I find tedious is just the space formatting.
 
-Sometimes it can be a bit distracting while I am writing a function in the beginning when I only declare the variables but don't do anything to them yet. It says "ESLint: variable is defined but never used (no-unused-vars)". For example, if I comment out the whole for-loop, ESLint will show an error with the variables `current`, 
+Sometimes it can be a bit distracting while I am writing a function in the beginning when I only declare the variables but don't do anything to them yet. It says "ESLint: variable is defined but never used (no-unused-vars)". For example, if I comment out the whole for-loop, ESLint will show an error with the variables `current`, `next`, and `temp`:
 
+```javascript
+function fib() {
+  const result = [];
+  let current = 0;
+  let next = 1;
+  let temp;
+  // for (let i = 0; i < 100; i++) {
+  //   result.push(current);
+  //   temp = current;
+  //   current = next;
+  //   next = current + temp;
+  // }
+  return result;
+}
+```
 
-## IntelliJ
+However, ESLint is still very useful because it reminds me when I forget to add a return statement in a function, and it keeps the code looking clean. I appreciate having coding standards so that code can be easily read and the style is kept uniform when working in teams. 
+
 
 
 

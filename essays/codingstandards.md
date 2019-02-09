@@ -52,5 +52,3 @@ function fib() {
 However, ESLint is still very useful because it reminds me when I forget to add a return statement in a function, and it keeps the code looking clean. I appreciate having coding standards so that code can be easily read and the style is kept uniform when working in teams. 
 
 
-
-

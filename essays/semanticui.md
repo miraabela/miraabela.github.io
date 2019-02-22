@@ -29,7 +29,7 @@ On these two programs, you could create static pixel perfect mockups. Adobe adde
 <img src="https://i.ytimg.com/vi/D-Ya08vvWD4/maxresdefault.jpg" class="ui image">
 
 ### Webflow
-[Webflow](www.webflow.com) is a WYSISYG website builder. It is for visual designers who are not so skilled at writing code. The builder automatically generates the HTML, CSS, and Javascript, but still gives a lot of power to edit the code.
+[Webflow](http://www.webflow.com) is a WYSISYG website builder. It is for visual designers who are not so skilled at writing code. The builder automatically generates the HTML, CSS, and Javascript, but still gives a lot of power to edit the code.
 <img src="https://forum.webflow.com/uploads/webflow1/2003/23ebeea5f48926c6.png" class="ui image">
 
 ## Benefits of Using Semantic UI

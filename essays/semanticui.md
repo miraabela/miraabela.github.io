@@ -25,11 +25,11 @@ However, back in highschool, I didn't have a clue on where to start with on buil
 ## Alternatives to a UI Framework
 
 ### Adobe Photoshop or Illustrator
-On these two programs, you could create static pixel perfect mockups. Adobe added some feature of exporting CSS code from layer styles, but there wasn't a way to export the HTML code of the site structure. Aother workaround was to export "slices" which were just rectangles of images of the site and you would piece it together in the HTML.
+On these two programs, you could create static pixel perfect mockups. Adobe added some feature of exporting CSS code from layer styles, but there wasn't a way to export the HTML code of the site structure. Another workaround was to export "slices" which were just rectangles of images of the site and you would piece it together in the HTML, which was pretty bad. You could create the look of the website but it wasn't interactive.
 <img src="https://i.ytimg.com/vi/D-Ya08vvWD4/maxresdefault.jpg" class="ui image">
 
 ### Webflow
-[Webflow](www.webflow.com) is a visual website developing tool. It is for designers who are not so skilled at writing code, but can still visually design a website. The builder automatically generates the HTML, CSS, and Javascript, but still gives a lot of power to edit the code.
+[Webflow](www.webflow.com) is a WYSISYG website builder. It is for visual designers who are not so skilled at writing code. The builder automatically generates the HTML, CSS, and Javascript, but still gives a lot of power to edit the code.
 <img src="https://forum.webflow.com/uploads/webflow1/2003/23ebeea5f48926c6.png" class="ui image">
 
 ## Benefits of Using Semantic UI

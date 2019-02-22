@@ -18,7 +18,6 @@ A little background... Web design, UX, and UI are some big reasons why I wanted 
 
 Below is an old website I really appreciated on awwwards.com: [TheCapitol.pn](thecapitol.pn)
 <img src="https://assets.awwwards.com/awards/images/2014/08/the-capitol-website.jpg" class="ui image">
-![thecapitol.pn](https://assets.awwwards.com/awards/images/2014/08/the-capitol-website.jpg)
 
 ## Coffee Shop Napkin Mockups
 However, back in highschool, I didn't have a clue on where to start with on building website designs, even though I fiddled with some of the code that other people wrote. If the code was already premade, I learned how to mess around with it, but I didn't know how to build it from scratch. This is why I find learning Semantic UI to be useful, because now I have a starting point, wheras before I would stick to the traditional method of drawing designs on paper.
@@ -27,11 +26,11 @@ However, back in highschool, I didn't have a clue on where to start with on buil
 
 ### Adobe Photoshop or Illustrator
 On these two programs, you could create static pixel perfect mockups. Adobe added some feature of exporting CSS code from layer styles, but there wasn't a way to export the HTML code of the site structure. Aother workaround was to export "slices" which were just rectangles of images of the site and you would piece it together in the HTML.
-![Photoshop CS5 Web Design](https://i.ytimg.com/vi/D-Ya08vvWD4/maxresdefault.jpg)
+<img src="https://i.ytimg.com/vi/D-Ya08vvWD4/maxresdefault.jpg" class="ui image">
 
 ### Webflow
 [Webflow](www.webflow.com) is a visual website developing tool. It is for designers who are not so skilled at writing code, but can still visually design a website. The builder automatically generates the HTML, CSS, and Javascript, but still gives a lot of power to edit the code.
-![Webflow](https://forum.webflow.com/uploads/webflow1/2003/23ebeea5f48926c6.png)
+<img src="https://forum.webflow.com/uploads/webflow1/2003/23ebeea5f48926c6.png" class="ui image">
 
 ## Benefits of Using Semantic UI
 

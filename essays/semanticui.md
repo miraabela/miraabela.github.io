@@ -16,6 +16,9 @@ labels:
 ## Why I Had No Life in High School
 A little background... Web design, UX, and UI are some big reasons why I wanted to get into computer science in the first place. I started out with an art background, then became interested in graphic design, then in highschool I found myself spending a little too much time looking through [dribbble](http://dribbble.com), [Behance](www.behance.net), and [awwwards](www.awwwards.com) appreciating the gorgeous website/UI/UX designs, interactions, animations, and graphics that people made. __(All the hours I wasted doing this make up for why I can work faster now, it takes time, patience, and genuine curiosity to learn more.)__ I was really intrigued by the creative ways they would layout text, images, and media on a website and used colors and elements to create contrast that was visually appealing. So, on paper I was used to drawing my ideas, however everything I was creating was just static and not interactive. They were simply images your eyes could look at. After discovering interactive and beautiful web designs and expereinces on the aforementioned websites, I realized that I wanted to bring my designs and art to life somehow, and create things you could interact with. This is the part where computer science can make your creativity take flight. A website or app that you can scroll through, click, and play with adds so much more dimention to just static designs.
 
+Below is an old website I really appreciated on awwwards.com: (thecapitol.pn)
+![thecapitol.pn](https://assets.awwwards.com/awards/images/2014/08/the-capitol-website.jpg)
+
 ## Coffee Shop Napkin Mockups
 However, back in highschool, I didn't have a clue on where to start with on building website designs, even though I fiddled with some of the code that other people wrote. If the code was already premade, I learned how to mess around with it, but I didn't know how to build it from scratch. This is why I find learning Semantic UI to be useful, because now I have a starting point, wheras before I would stick to the traditional method of drawing designs on paper.
 
@@ -23,9 +26,11 @@ However, back in highschool, I didn't have a clue on where to start with on buil
 
 ### Adobe Photoshop or Illustrator
 On these two programs, you could create static pixel perfect mockups. Adobe added some feature of exporting CSS code from layer styles, but there wasn't a way to export the HTML code of the site structure. Aother workaround was to export "slices" which were just rectangles of images of the site and you would piece it together in the HTML.
+![Photoshop CS5 Web Design](https://i.ytimg.com/vi/D-Ya08vvWD4/maxresdefault.jpg)
 
 ### Webflow
 [Webflow](www.webflow.com) is a visual website developing tool. It is for designers who are not so skilled at writing code, but can still visually design a website. The builder automatically generates the HTML, CSS, and Javascript, but still gives a lot of power to edit the code.
+![Webflow](https://forum.webflow.com/uploads/webflow1/2003/23ebeea5f48926c6.png)
 
 ## Benefits of Using Semantic UI
 

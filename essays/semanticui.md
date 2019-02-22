@@ -15,7 +15,7 @@ labels:
   - UX
 ---
 
-## Having No Life in HS -> Having More Time in College
+## No Life in HS -> More Time in College
 A little background... Web design, UX, and UI are some big reasons why I wanted to get into computer science in the first place. I started out with an art background, then became interested in graphic design, then in highschool I found myself spending a little too much time looking through [dribbble](http://dribbble.com), [Behance](www.behance.net), and [awwwards](www.awwwards.com) appreciating the gorgeous website/UI/UX designs, interactions, and animations that people made. **((All the hours that I wasted inspecting/looking at HTML/CSS of these web designs make up for why I can do the WODs so quickly now, it takes a lot of time and patience, which I've already exhausted back in high school. [instead of going out and having a life]))** I was really intrigued by the creative ways they would layout text, images, and media on a website that created visual appeal. So, on paper I was used to drawing whatever my mind wanted, however everthing I was creating was just static and not interactive. They were simply images your eyes could appreciate. After discovering interactive and beautiful web designs and expereinces on the aforementioned websites, I realized that I wanted to bring my designs and art to life somehow, and create things you could interact with. This is the part where computer science can make your creativity take flight. A website or app that you can scroll through, click, and play with adds so much more dimention to just static designs.
 
 

@@ -17,7 +17,7 @@ Easily accessible searchable and filterable database of opportunities available 
 
 
 # Approach
- Mongo Database:
+ Database:
 - Collection of Opportunities
 - - Opportunity Document:
 - - - Id (string), Name (string), Description (string), interestIDs(string array), Type (string array)

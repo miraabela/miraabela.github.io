@@ -31,12 +31,13 @@ Easily accessible searchable and filterable database of opportunities available 
 # Overview of Pages
 - Landing Page marketed towards freshman
 - Profile: Add interests, See Saved Opportunities
-- Explore: Search and Filter Opportunities by Type/Interest
+- Explore: Search and Filter Opportunities by Type/Interest. See other friends with similar interests
 
 # Use Cases
 - New Freshman just getting to know and explore the ICS community and resources in Hawaii
 
 # Beyond the basic
+- Friend system
 - Explore page visualized with mind maps?
 - Notifications for event opportunities, internship application deadlines
 - See other users with same interests

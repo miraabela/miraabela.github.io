@@ -26,3 +26,8 @@ A developer was creating a quiz for a drug company, and the requirements of the 
 
 There are so many problems with this. The first violation (ACM 1.2) is that his actions caused harm (depression- psychological harm) and eventually death to this young girl. The second offense (ACM 1.1) is that the company was not serving the People first, it was serving the Profits of the drug first.  The third offense is that the quiz is a lack of honesty (ACM 1.3) by making misleading claims to trick the innocent girl and not disclosing the side effects. As an extreme example, the last sentence is almost akin to how Nazi’s defense their actions because they were “just following orders.”
 
+## Personal Opinion
+
+I am disgusted with this behavior because I suffered through depression during my early teen years. Back then I was searching for ways to make myself normal again, and that included frequent trips to different types of doctors (alternative and traditional) and being prescribed multiple drugs. I know how it feels to take anti-depressants, those things mess with your brain and actually made my depression worse. I am disheartened deeply to hear that a young innocent girl with so much potential was only looking for relief for her condition but instead was lead astray and eventually to death because of the careless actions of some guy who was just trying to make money. 
+
+

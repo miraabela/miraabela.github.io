@@ -4,6 +4,7 @@ type: essay
 title: Coding Standards
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-07
+published: false
 labels:
   - ESLint
   - JavaScript

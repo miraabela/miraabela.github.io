@@ -2,7 +2,6 @@
 layout: esssay
 type: essay
 title: The Creative Perspective
-permalink: projects/creativeperspective
 date: 2019-01-02
 labels:
   - Photography

@@ -48,12 +48,14 @@ In order to understand how to approach the problem of the lack of diversity in t
 On the [old website](http://www.stem.kapiolani.edu), across all pages there is a header that features three males, also the navigation bar seems to be stuffed with many links. It also had a lot of outdated information and finding a simple degree sheet took to long.  My goal was make the website more user friendly for new students to explore. Using Google Analytics, I found out the most popular pages of the old website and determined the most important information students were seeking. 
 
 
+# New Design
+
 <img class="ui centered image" src="../images/newkccstem1.png">
 <img class="ui centered image" src="../images/newkccstem2.png">
 <img class="ui centered image" src="../images/newkccstem3.png">
 <img class="ui centered image" src="../images/newkccstem4.png">
  
-
+Here is the [new website](http://kccstem.com).
 
  First, I simplified the navigation bar to four main tabs. I wanted to highlight the important information and the links that students actually cared about. I created individual degree pages for each of the ASNS concentrations. Each of the degree pages, before the breakpoint of the pages, has the most important links: the degree sheet and class availability. Below that is a section which highlights which potential majors the degree will transfer to, and what careers are possible. Below that is a row of images that depict interesting and exciting aspects of the field. Below that are large buttons to scholarships and internships. At the bottom, there is an alumni testimonial that helps encourage potential students to choose the major. 
  

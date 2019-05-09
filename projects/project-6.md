@@ -12,7 +12,19 @@ labels:
 summary: How can we help new and potential students in CS learn more about the possibilities of this field?
 ---
 
-# Previous Work 
+# Overview
 
 <img class="ui centered image" src="../images/discovercs1.png">
 <img class="ui centered image" src="../images/discovercs1.png">
+
+
+
+
+Learn  more on the [Discover CS GitHub Page](https://github.com/). 
+
+
+
+# Contributions
+
+
+# Learning Experience

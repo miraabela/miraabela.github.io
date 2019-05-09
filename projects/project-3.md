@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/kccstemthumb.png
 title: Website Redesign: KCCSTEM
-permalink: projects/diversitystem
+permalink: projects/diversitystemm
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-03
 labels:

@@ -1,11 +1,9 @@
 ---
-layout: project
-type: project
-image: images/artphotothumb.png
+layout: esssay
+type: essay
 title: The Creative Perspective
-permalink: projects/creativity
+permalink: projects/creativeperspective
 date: 2019-01-02
-published: false
 labels:
   - Photography
   - Art

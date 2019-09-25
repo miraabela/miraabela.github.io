@@ -14,14 +14,15 @@ labels:
 
 
 Internship: June 2019 - August 2019
+
 Project for USC ISI REU Site: [Human Communication in a Connected World](https://reu.isi.edu/index.html) Summer 2019. Supporting NSF IUSE Program Award [#1826632](https://nsf.gov/awardsearch/showAward?AWD_ID=1826632)
 
 
 ## View the Poster
 
-<object data="https://miraabela.github.io/cue4chng/files/poster.pdf" type="application/pdf" width="750px" height="400px">
+<object data="https://miraabela.github.io/images/poster.pdf" type="application/pdf" width="100%" height="400px">
     <embed src="../images/poster.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://miraabela.github.io/cue4chng/files/poster.pdf">Download PDF</a>.</p>
+        <p><a href="https://miraabela.github.io/images/poster.pdf">Download PDF</a></p>
     </embed>
 </object>
 
@@ -49,4 +50,4 @@ Mindmap of Workflow (Click & Drag):
 - 4222 reviews on USC & UHM  Computer Science & Engineering professors
 - 4244 course sections from USC Schedule of Classes
 	- 1212 syllabi (.doc & .pdf)
-- Pre-processing
+

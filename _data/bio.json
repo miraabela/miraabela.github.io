@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mirabela Medallon",
-    "label": "B.S. Computer Science candidate at UH Manoa. \n Expected Graduation: Fall 2020.",
+    "label": "B.S. Computer Science candidate at UH Manoa. </br> Graduation: Fall 2020.",
     "picture": "/../images/b.jpg",
     "email": "mirabelamedallon@gmail.com",
     "phone": "",
     "website": "https://miraabela.github.io",
-    "summary": "Data Science, Web Development, UI/UX & Graphic Design. \n President of Girls Who Code College Loops at UH Manoa",
+    "summary": "Data Science, Web Development, UI/UX & Graphic Design. </br> President of Girls Who Code College Loops at UH Manoa",
     "location": {
       "address": "",
       "postalCode": "96816",

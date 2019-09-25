@@ -18,9 +18,9 @@ summary: How can we help new and potential students in CS learn more about the p
 <img class="ui centered image" src="../images/discovercs1.png">
 
 
-Discover CS is an app that is supposed to help potential students in CS, particularly underclassmen, explore what is possible with the major. They can explore the various interests categories in three types: technical, subject, and field. Technical interests include languages, frameworks, and technologies. Subject interests are broad subjects such as math and art. Field interests are specific fields in CS such as virtual reality and artificial intelligence. The student can also explore related careers and find friends. Searching for opportunities helps them find scholarships, internships, and events. The student has a personal profile that displays interests, careers, and opportunities they saved. 
+[Discover CS](http://discovercs.meteorapp.com/#/) is an app that is supposed to help potential students in CS, particularly underclassmen, explore what is possible with the major. They can explore the various interests categories in three types: technical, subject, and field. Technical interests include languages, frameworks, and technologies. Subject interests are broad subjects such as math and art. Field interests are specific fields in CS such as virtual reality and artificial intelligence. The student can also explore related careers and find friends. Searching for opportunities helps them find scholarships, internships, and events. The student has a personal profile that displays interests, careers, and opportunities they saved. 
 
-Learn  more on the [Discover CS GitHub Page](https://github.com/). 
+Learn  more on the [Discover CS GitHub Page](https://discovercs.github.io/). 
 
 
 

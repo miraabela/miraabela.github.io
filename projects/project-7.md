@@ -50,4 +50,4 @@ Mindmap of Workflow (Click & Drag):
 - 4222 reviews on USC & UHM  Computer Science & Engineering professors
 - 4244 course sections from USC Schedule of Classes
 	- 1212 syllabi (.doc & .pdf)
-- Pre-processing
+

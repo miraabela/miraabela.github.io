@@ -8,13 +8,10 @@ permalink: projects/diversitystem
 date: 2018-12-03
 labels:
   - Diversity
-  - STEM
-  - Women
-  - Underrepresented Minorities
 summary: How can we make STEM/CS more appealing to Women & Native Hawaiians?
 ---
 
-# Prior Research
+# Background
 
 In order to understand how to approach the problem of the lack of diversity in the STEM department, I researched on how to make STEM more appealing for women & underrepresented minorities. I summarized my findings in a [presentation](https://docs.google.com/presentation/d/1wrauroYPML3FRxXu9RMC97OBIoRGKsvWbc2U2-l1XSA/edit?usp=sharing) I did for the KCC Student Undergraduate Research Fair Fall 2018 and showed the ideas that I had and my vision for their new website.
 

@@ -39,29 +39,37 @@
   },
   "interests": [
     {
-      "name": "web development",
-      "keywords": [
+      "name": "Web Development",
+      "keywords": ["front end", "web", "html" ,"css","Javascript","js"
       ]
     },
     {
-      "name": "sustainability",
+      "name": "Data Science",
+      "keywords": ["python","data"
+      ]
+    },
+    {
+      "name": "UI/UX Design",
+      "keywords": [
+        "User experience", "user interface"
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "keywords": [
+      
+      ]
+    },
+    {
+      "name": "Climate Change",
       "keywords": [
         "green",
         "climate change",
         "environment",
         "renewable energy"
+        "climate"
       ]
     },
-    {
-      "name": "art, graphic design & photography",
-      "keywords": [
-        "UI / UX design",
-        "adobe",
-        "photoshop",
-        "illustrator",
-        "lightroom",
-      ]
-    }
   ],
   "skills": [
     {
@@ -74,7 +82,8 @@
         "Javascript",
         "HTML & CSS",
         "C#",
-        "Arduino"
+        "Arduino",
+        "Python"
       ]
     },
     {
@@ -86,7 +95,9 @@
         "Wordpress",
         "Adobe Creative Cloud",
         "Linux/Unix shell",
-        "VIM"
+        "VIM",
+        "Natural Language Processing",
+        "Web Crawling"
       ]
     }
   ],

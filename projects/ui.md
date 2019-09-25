@@ -8,13 +8,14 @@ date: 2019-03-01
 labels:
   - UI / UX Design
   - Mapbox
-summary: Flowater IoT App & Blurr App 
+summary: Flowater App & Blurr App 
 ---
 
 ## Flowater
 
+I provided consultation and a prototype design of what features should be on their upcoming IoT app, which will be submitted to CES 2020.
 
-
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/XUQ_NdL79a8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Blurr

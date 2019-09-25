@@ -14,6 +14,7 @@ labels:
 
 
 Internship: June 2019 - August 2019
+
 Project for USC ISI REU Site: [Human Communication in a Connected World](https://reu.isi.edu/index.html) Summer 2019. Supporting NSF IUSE Program Award [#1826632](https://nsf.gov/awardsearch/showAward?AWD_ID=1826632)
 
 

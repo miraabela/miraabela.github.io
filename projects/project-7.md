@@ -20,7 +20,7 @@ Project for USC ISI REU Site: [Human Communication in a Connected World](https:/
 
 ## View the Poster
 
-<object data="https://miraabela.github.io/cue4chng/files/poster.pdf" type="application/pdf" width="750px" height="400px">
+<object data="https://miraabela.github.io/cue4chng/files/poster.pdf" type="application/pdf" width="100%" height="550px">
     <embed src="../images/poster.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://miraabela.github.io/cue4chng/files/poster.pdf">Download PDF</a>.</p>
     </embed>

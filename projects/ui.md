@@ -11,6 +11,8 @@ labels:
 summary: Flowater App & Blurr App 
 ---
 
+**Best viewed on desktop**
+
 ## Flowater
 
 I provided consultation for Flowater, an Inc 500 company, and a prototype design of possible features for their upcoming new product development.

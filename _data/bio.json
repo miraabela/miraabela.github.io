@@ -47,8 +47,7 @@
     {
       "name": "Graphic Design",
       "keywords": [
-      
-      ]
+      ],
     },
     {
       "name": "Climate Change",
@@ -57,8 +56,8 @@
         "climate change",
         "environment",
         "renewable energy"
-        "climate"
-      ]
+        "climate",
+      ],
     },
   ],
   "skills": [
@@ -73,8 +72,8 @@
         "HTML & CSS",
         "C#",
         "Arduino",
-        "Python"
-      ]
+        "Python",
+      ],
     },
     {
       "name": "Toolsets/OS",
@@ -88,7 +87,7 @@
         "VIM",
         "Natural Language Processing",
         "Web Crawling"
-      ]
+      ],
     }
   ],
   "education": [

@@ -11,7 +11,7 @@ labels:
   - Web Scraping
 ---
 
-## Summary
+# Summary
 
 <img class="ui tiny rounded image" src="../images/usc.jpg">
 

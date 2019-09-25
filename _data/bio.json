@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mirabela Medallon",
-    "label": "B.S. Computer Science candidate at UH Manoa. Expected Graduation: Fall 2020.",
+    "label": "B.S. Computer Science candidate at UH Manoa. \n Expected Graduation: Fall 2020.",
     "picture": "/../images/b.jpg",
     "email": "mirabelamedallon@gmail.com",
     "phone": "",
     "website": "https://miraabela.github.io",
-    "summary": "Web Developer, UI & Graphic Designer",
+    "summary": "Data Science, Web Development, UI/UX & Graphic Design",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -29,24 +29,13 @@
   },
   "interests": [
     {
-      "name": "Data Science",
-      "keywords": ["python","data"
-      ]
+      "name": "Diversity in STEM",
+      "keywords": ["gender equality"
+      ],
     },
     {
-      "name": "Web Development",
-      "keywords": ["front end", "web", "html" ,"css","Javascript","js"
-      ]
-    },
-    {
-      "name": "UI/UX Design",
-      "keywords": [
-        "User experience", "user interface"
-      ]
-    },
-    {
-      "name": "Graphic Design",
-      "keywords": [
+      "name": "Natural Language Processing",
+      "keywords": ["machine learning","nlp","ai"
       ],
     },
     {

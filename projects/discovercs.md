@@ -9,7 +9,7 @@ labels:
   - React
   - Semantic UI
   - Meteor
-summary: How can we help new and potential students in CS learn more about the possibilities of this field?
+summary: 
 ---
 
 # Overview

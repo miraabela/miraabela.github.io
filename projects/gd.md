@@ -5,7 +5,7 @@ image: images/gdthumb.png
 title: Freelance Graphic Design
 permalink: projects/graphicdesign
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-01
+date: 2017-01-02
 labels:
   - Graphic Design
   - Client Work

@@ -3,6 +3,7 @@ layout: esssay
 type: essay
 title: The Creative Perspective
 date: 2019-01-02
+published: false
 labels:
   - Photography
   - Art

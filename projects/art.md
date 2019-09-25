@@ -4,8 +4,7 @@ type: project
 image: images/artphotothumb.png
 title: The Creative Perspective
 permalink: projects/creativity
-date: 2019-01-02
-published: false
+date: 2017-01-01
 labels:
   - Photography
   - Art

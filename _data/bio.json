@@ -3,10 +3,10 @@
     "name": "Mirabela Medallon",
     "label": "Student",
     "picture": "/../images/b.jpg",
-    "email": "",
+    "email": "mirabelamedallon@gmail.com",
     "phone": "",
     "website": "https://miraabela.github.io",
-    "summary": "B.S. in Computer Science candidate at UH Manoa. Expected Graduation: Fall 2020.",
+    "summary": "B.S. Computer Science candidate at UH Manoa. Expected Graduation: Fall 2020.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "mirabela-m-38702b164",
         "url": "https://www.linkedin.com/in/mirabela-m-38702b164/"
-      },
-      {
-        "network": "portfolio",
-        "username": "",
-        "url": "https://mirabela.carbonmade.com/"
-      },
-      {
-        "network": "instagram",
-        "username": "miraabela",
-        "url": "https://www.instagram.com/miraabela/"
       }
     ]
   },

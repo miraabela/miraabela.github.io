@@ -10,13 +10,17 @@ labels:
   - Natural Language Processing
   - Web Scraping
 ---
+
+## Summary
+
 **Note: Some details and results are omitted due to sensitive data**
 
 
 Internship: June 2019 - August 2019
 
-Project for USC ISI REU Site: [Human Communication in a Connected World](https://reu.isi.edu/index.html) Summer 2019. Supporting NSF IUSE Program Award [#1826632](https://nsf.gov/awardsearch/showAward?AWD_ID=1826632)
+Project for USC ISI REU Site: [Human Communication in a Connected World](https://reu.isi.edu/index.html) Summer 2019. 
 
+Independently created and executed a project for data collection (web scraping & cleaning) and data analysis (natural language processing) for the NSF Project “Coordinating Curricula and User Preferences to Increase the Participation of Women and Students of Color in Engineering” [Award #1826632](https://nsf.gov/awardsearch/showAward?AWD_ID=1826632)
 
 ## View the Poster
 

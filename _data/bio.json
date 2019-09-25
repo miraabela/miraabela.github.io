@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mirabela Medallon",
-    "label": "Student",
+    "label": "B.S. Computer Science candidate at UH Manoa. Expected Graduation: Fall 2020.",
     "picture": "/../images/b.jpg",
     "email": "mirabelamedallon@gmail.com",
     "phone": "",
     "website": "https://miraabela.github.io",
-    "summary": "B.S. Computer Science candidate at UH Manoa. Expected Graduation: Fall 2020.",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -29,13 +29,13 @@
   },
   "interests": [
     {
-      "name": "Web Development",
-      "keywords": ["front end", "web", "html" ,"css","Javascript","js"
+      "name": "Data Science",
+      "keywords": ["python","data"
       ]
     },
     {
-      "name": "Data Science",
-      "keywords": ["python","data"
+      "name": "Web Development",
+      "keywords": ["front end", "web", "html" ,"css","Javascript","js"
       ]
     },
     {

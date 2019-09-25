@@ -8,12 +8,8 @@ permalink: projects/kumu
 date: 2018-10-20
 labels:
   - Hackathon
-  - Andriod
   - Java
-  - HTML & CSS
-  - Native Hawaiian Issues
-  - Indigenous Innovation
-summary: Our team proposed a solution to the DLNR's problem of collecting and reporting native Hawaiian plant data.
+summary: Our team proposed a solution to the DLNR's problem of collecting and reporting Native Hawaiian plant data.
 ---
 
 

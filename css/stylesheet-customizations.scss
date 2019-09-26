@@ -7,12 +7,17 @@
 
 // Customize the background color
 body {
-  // background-color: #f2f2f2;;
+   background-color: #ffffff;;
 }
 
 // Customize the menubar color
 .ui.menu {
-  // background: $background-start;
+  background: #000000;
+}
+
+
+.ui.menu.item {
+  color: white;
 }
 
 // Customize the home page icon colors

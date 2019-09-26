@@ -13,8 +13,6 @@ labels:
 
 # Summary
 
-<img class="ui tiny rounded image" src="../images/usc.jpg">
-
 
 **Note: Some details and results are omitted due to sensitive data**
 

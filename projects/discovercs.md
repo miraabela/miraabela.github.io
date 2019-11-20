@@ -5,6 +5,7 @@ image: images/dcsthumb.png
 title: Discover CS
 permalink: projects/discovercs
 date: 2018-01-01
+published: false
 labels:
   - React
   - Semantic UI

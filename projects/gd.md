@@ -21,6 +21,12 @@ During the time that I freelanced, I picked up so many valuable skills from inte
 
 
 # Archive of Work
+
+
+<img class="ui centered image" src="../images/gdnew1.png">
+
+<img class="ui centered image" src="../images/gdnew2.png">
+
 <img class="ui centered image" src="../images/gd1.png">
 
 Here is a logo design for a coffee house and modern workspace offering speaking events and live entertainment.

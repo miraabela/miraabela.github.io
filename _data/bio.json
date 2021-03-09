@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Mirabela Medallon",
-    "label": "B.S. Computer Science candidate at UH Manoa. </br> Graduation: Fall 2020.",
-    "picture": "/../images/b.jpg",
+    "label": "B.S. Computer Science candidate at UH Manoa. </br> Graduation: Summer 2020.",
+    "picture": "/../images/b.jpeg",
     "email": "mirabelamedallon@gmail.com",
     "phone": "",
     "website": "https://miraabela.github.io",
-    "summary": "Hi there, I'm Bela. My interests are: <b>Data Science, Web Development, UI/UX & Graphic Design. </b> I'm also President of Girls Who Code College Loops at UH Manoa & VP of SWITCH (Supporting Women in Information Technology & Computing in Hawaii) at UH Manoa.",
+    "summary": "Hey, I'm Bela! I'm a programmer, pixel pusher, piano player, and pinoy. I'm also President and Co-founder of SWITCH (Supporting Women in Information Technology & Computing in Hawaii) at UH Manoa.",
     "location": {
       "address": "",
-      "postalCode": "96816",
-      "city": "Honolulu",
+      "postalCode": "96701",
+      "city": "Aiea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
